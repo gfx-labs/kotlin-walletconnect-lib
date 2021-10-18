@@ -193,6 +193,7 @@ class WCSession(
                 handshakeId = data.id
                 peerId = data.peer.id
                 peerMeta = data.peer.meta
+                chainId = data.peer.chainId
                 storeSession()
             }
             is Session.MethodCall.SessionUpdate -> {
