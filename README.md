@@ -1,21 +1,15 @@
-# kotlin-walletconnect-lib
-library to use WalletConnect with Kotlin or Java
+# asduihlasuijkd asdas
+d as
+d
+asaduihlasnluiads uidhb yuiaesbnoiars[f'
+edr
+gers
+g rd
+sg er
+h s5e
+h 
+45eh 
+5e
 
-## Add this library to your project
 
-Add the @jitpack repository to your gradle file:
-
-```gradle
-repositories {
-	...
-	maven { url 'https://jitpack.io' }
-}
-```
-
-Add the dependency:
-
-```gradle
-dependencies {
-	implementation 'com.github.WalletConnect:kotlin-walletconnect-lib:0.9.6'
-}
-```
+the fact that this has to exist makes me so unbelivably angry
